@@ -1,5 +1,0 @@
-Link para acesso a documentação: https://docs.microsoft.com/pt-br/dotnet/
-
-O .NET é uma plataforma de desenvolvimento atualmente open-source, criada pela Microsoft, e que é composta por uma biblioteca padrão, um compilador e uma máquina virtual.
-
-Esses componentes da plataforma possibilitam a criação de códigos em algumas linguagens, como C#, VB.NET e F#, afinal, a plataforma foi pensada para utilizar as linguagens e tecnologias da Microsoft, sem precisar usar bibliotecas diferentes para cada uma delas.
